@@ -1,6 +1,7 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 import { getAnalytics } from 'firebase/analytics';
+import { getStorage } from 'firebase/storage';
 
 // Your Firebase configuration
 const firebaseConfig = {
@@ -19,6 +20,9 @@ const app = initializeApp(firebaseConfig);
 // Initialize Firestore
 export const db = getFirestore(app);
 
+// Initialize Storage
+export const storage = getStorage(app);
+
 // Initialize Analytics (optional - only runs in browser)
 let analytics;
 if (typeof window !== 'undefined') {
@@ -26,4 +30,3 @@ if (typeof window !== 'undefined') {
 }
 
 export { analytics };
-
