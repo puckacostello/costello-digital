@@ -50,8 +50,8 @@ const Footer = () => {
                 </div>
             </div>
 
-            {/* Game Container - Hidden on small mobile to save space if needed, but kept for cool factor */}
-            <div className="hidden sm:flex flex-col items-center justify-center gap-3">
+            {/* Game Container */}
+            <div className="flex flex-col items-center justify-center gap-3">
                 <div className="flex flex-col items-center gap-2">
                     <p className="font-mono text-xs text-neon uppercase tracking-wider text-center">
                         Beat our high score while you decide

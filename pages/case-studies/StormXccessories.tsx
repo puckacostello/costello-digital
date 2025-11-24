@@ -119,7 +119,7 @@ const StormXccessories = () => {
           <Reveal>
             <div className="relative overflow-hidden border border-ink/10 shadow-[8px_8px_0px_0px_rgba(5,5,5,0.1)]">
               <img 
-                src="/storm-xccessories-4x4-parts-shopify-store.png" 
+                src="/storm-xccessories-4x4-parts-shopify-store.jpg" 
                 alt="Storm Xccessories 4x4 Parts Shopify Store Design"
                 className="w-full"
                 loading="eager"

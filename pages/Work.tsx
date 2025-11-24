@@ -124,7 +124,7 @@ const Work = () => {
               title="Risper Styling" 
               type="Automotive E-Commerce" 
               url="risperstyling.com"
-              img="/risper-styling-shopify-store-automotive-ecommerce.png"
+              img="/risper-styling-shopify-store-automotive-ecommerce.jpg"
               caseStudyUrl="/case-studies/risper-styling"
               delay={0}
             />
@@ -132,7 +132,7 @@ const Work = () => {
               title="Storm Xccessories" 
               type="4x4 Parts & Accessories" 
               url="4x4ni.com"
-              img="/storm-xccessories-4x4-parts-shopify-store.png"
+              img="/storm-xccessories-4x4-parts-shopify-store.jpg"
               caseStudyUrl="/case-studies/storm-xccessories"
               delay={200}
             />
@@ -140,7 +140,7 @@ const Work = () => {
               title="Ridge Alloys" 
               type="Alloy Wheels / Auto Parts" 
               url="ridgealloys.com"
-              img="/ridge-alloys-wheels-auto-parts-shopify-store.png"
+              img="/ridge-alloys-wheels-auto-parts-shopify-store.jpg"
               caseStudyUrl="/case-studies/ridge-alloys"
               delay={0}
             />
@@ -148,7 +148,7 @@ const Work = () => {
               title="The Loft Castlerock" 
               type="Restaurant / Hospitality" 
               url="theloftcastlerock.co.uk"
-              img="/the-loft-castlerock-restaurant-website.png"
+              img="/the-loft-castlerock-restaurant-website.jpg"
               caseStudyUrl="/case-studies/the-loft-castlerock"
               delay={200}
             />

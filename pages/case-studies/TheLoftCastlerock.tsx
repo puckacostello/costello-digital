@@ -113,7 +113,7 @@ const TheLoftCastlerock = () => {
           <Reveal>
             <div className="relative overflow-hidden border border-ink/10 shadow-[8px_8px_0px_0px_rgba(5,5,5,0.1)]">
               <img 
-                src="/the-loft-castlerock-restaurant-website.png" 
+                src="/the-loft-castlerock-restaurant-website.jpg" 
                 alt="The Loft Castlerock Restaurant Website Design"
                 className="w-full"
                 loading="eager"

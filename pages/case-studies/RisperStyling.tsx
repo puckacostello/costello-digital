@@ -113,7 +113,7 @@ const RisperStyling = () => {
           <Reveal>
             <div className="relative overflow-hidden border border-ink/10 shadow-[8px_8px_0px_0px_rgba(5,5,5,0.1)]">
               <img 
-                src="/risper-styling-shopify-store-automotive-ecommerce.png" 
+                src="/risper-styling-shopify-store-automotive-ecommerce.jpg" 
                 alt="Risper Styling Shopify Store - Automotive E-Commerce Design"
                 className="w-full"
                 loading="eager"
