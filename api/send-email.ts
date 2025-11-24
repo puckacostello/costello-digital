@@ -39,8 +39,8 @@ export default async function handler(req: any, res: any) {
     `;
 
     const data = await resend.emails.send({
-      from: 'Costello Digital Contact Form <onboarding@resend.dev>',
-      to: ['hello@costellodigital.com'],
+      from: 'Costello Digital <hello@costellodigital.co.uk>',
+      to: ['hello@costellodigital.co.uk'],
       reply_to: email,
       subject: `New Project Inquiry from ${name}`,
       html: emailContent,
