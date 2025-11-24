@@ -40,7 +40,7 @@ export default async function handler(req: any, res: any) {
 
     const data = await resend.emails.send({
       from: 'Costello Digital <hello@costellodigital.co.uk>',
-      to: ['hello@costellodigital.co.uk'],
+      to: ['pucka.costello@gmail.com'], // Your verified Resend email
       reply_to: email,
       subject: `New Project Inquiry from ${name}`,
       html: emailContent,
